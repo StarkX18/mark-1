@@ -10,3 +10,6 @@
 [submodule "interview-prep-mcp"]
 	path = interview-prep-mcp
 	url = https://github.com/StarkX18/interview-prep-mcp.git
+[submodule "envelope_budgeting"]
+	path = envelope_budgeting
+	url = https://github.com/StarkX18/envelope_budgeting.git
