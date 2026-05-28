@@ -1,0 +1,12 @@
+[submodule "github-graph"]
+	path = github-graph
+	url = https://github.com/StarkX18/github-graph.git
+[submodule "tutor"]
+	path = tutor
+	url = https://github.com/StarkX18/tutor.git
+[submodule "job-applications"]
+	path = job-applications
+	url = https://github.com/StarkX18/job-applications.git
+[submodule "interview-prep-mcp"]
+	path = interview-prep-mcp
+	url = https://github.com/StarkX18/interview-prep-mcp.git
